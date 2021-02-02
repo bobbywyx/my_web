@@ -41,5 +41,5 @@ let adLink = 'https://bobbywyx.github.io/my_web/docs/ads.html';
 document.getElementsByTagName("title")[0].innerText = '合成大西瓜';
 
 // 开启选分弹窗：将 false 改为 true
-let selectModal = true;
+let selectModal = false;
 
